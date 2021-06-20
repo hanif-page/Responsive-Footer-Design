@@ -1,6 +1,6 @@
 Responsive Footer Design Using Html & CSS Grid | HTML CSS Footer
 
-Website Result Link: https://hanif-sudoapt.github.io/Responsive-Footer-Design/
+Website Result Link: https://hanif-page.github.io/Responsive-Footer-Design/
 
 YT Channel : Online Tutorials
 
